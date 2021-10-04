@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 90%;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(195, 245, 238);
+    font-size: 18px;
+}
+
+.top {
+    background-color: red;
+    padding: 20px;
+    margin: 0 0 20px 0;
+}
+
+.first-line {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.head {
+    padding: 0px 50px;
+}
+
+.of-link {
+    text-decoration-line: none;
+    color: aqua;
+    font-size: 20px;
+}
+
+.img-logo {
+    width: 150px;
+}
+.img-stad {
+    width: 500px;
+    margin: 0px;
+}
+
+.ref {
+    background-color: aqua;
+    margin: 15px;
+    padding: 5px 0px 5px 0px;
+}
+
+.link   {
+    margin: 0px 90px 0px 90px;
+    color: red;
+    text-decoration-line: none;
+    font-weight: bolder;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.picture{
+    padding: 0px 200px;
+}
+
+.img-team {
+    width: 100%;
+}
+
+.list {
+    padding: 10px;
+}
+
+.best {
+    width: 33%;
+    padding: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img-kenny {
+    width: 50%;
+    margin: 0px 35px 10px 35px;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0px 0px 10px 60px;
+}
+
+.description {
+    list-style-type: none;
+    padding: 0px 22px;
+}
+
+.img-dzherrard{
+    width: 70%;
+    margin: 0px 10px 10px 10px;
+} 
+
+.img-barnes {
+    width: 70%;
+}
+
+.img-rash {
+    width: 60%;
+}
+
+.img-nil {
+    width: 40%;
+    margin: 0px 0px  0px 60px;
+}
+
+.img-kallagan {
+    width: 70%;
+}
+
+.img-players {
+    width: 100%;
+}
